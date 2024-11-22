@@ -1,3 +1,5 @@
+#### This is R Studio 
+
 | Col1 | Col2  | Col3 |
 |------|-------|------|
 | 1    | test1 | 13   |
@@ -8,9 +10,7 @@
 
 *HI this is Deepaneesh*
 
-#### This is R studio
 
 1.  Deepaneesh
-2.  rama mama
 
 -   Selva
